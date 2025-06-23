@@ -61,3 +61,6 @@ Finally, we can use the trained model to classify new emails.
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/d922515d-b8fe-4a3c-b754-0c7efe9518f6)
+
+![Image](https://github.com/user-attachments/assets/8be583f4-aaad-4208-8b69-5456b08ed3d3)
